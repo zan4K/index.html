@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+
+}
+table{
+    border: 1px solid blue;
+    width: 400px;
+
+}
+th{
+    line-height: left;
+    text-align: left;
+}
